@@ -7,7 +7,7 @@
   "orientation": "portrait-primary",
    "icons": [
     {
-     "src": "/512.png",
+     "src": "/iced-coffee.png",
       "type": "image/png",
       "sizes": "512x512"
     }
