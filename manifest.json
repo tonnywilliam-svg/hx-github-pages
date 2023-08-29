@@ -1,7 +1,7 @@
 {
   "name": "Hx iOS App",
   "start_url": "/index.html",
-  "display": "standalone",
+  "display": "FullScreen",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
   "orientation": "portrait-primary",
